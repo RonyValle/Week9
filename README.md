@@ -1,7 +1,7 @@
 # Week9
 MidTerm
 
-This directory holds all my shellscripts for week8 
+This directory holds all my shellscripts for week9 
 
 Chp2.sh:
 
