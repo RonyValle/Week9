@@ -1,5 +1,5 @@
-# Week8
-Pre-MidTerm
+# Week9
+MidTerm
 
 This directory holds all my shellscripts for week8 
 
